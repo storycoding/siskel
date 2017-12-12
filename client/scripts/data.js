@@ -48,5 +48,11 @@ var movieData = [
     title: 'The Time Traveler\'s Wife',
     year: 2009,
     rating: 1
+  },
+
+  {
+    title: 'Shawshank Redemption',
+    year: 1994,
+    rating: 11
   }
 ];
